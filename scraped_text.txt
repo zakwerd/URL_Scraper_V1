@@ -315,4 +315,4 @@ Accessibility
 
 ©CopyrightStanford University.Stanford,California94305.
 
-GTM Container placement set to footerGoogle Tag Manager (noscript)End Google Tag Manager (noscript)window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-67ff70626f22fda5bd4","applicationID":"1427445280","transactionName":"ZlNUbBQDXEtUARVQXF8Zd1sSC11WGgQTVl1FG0ZZAQc=","queueTime":0,"applicationTime":247,"atts":"ShRXGlwZT0U=","errorBeacon":"bam.nr-data.net","agent":""}
+GTM Container placement set to footerGoogle Tag Manager (noscript)End Google Tag Manager (noscript)window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-67ff70626f22fda5bd4","applicationID":"1427445280","transactionName":"ZlNUbBQDXEtUARVQXF8Zd1sSC11WGgQTVl1FG0ZZAQc=","queueTime":0,"applicationTime":329,"atts":"ShRXGlwZT0U=","errorBeacon":"bam.nr-data.net","agent":""}
